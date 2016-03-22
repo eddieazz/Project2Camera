@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Edoardo\Desktop\Android_Studio\Camera2Project\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Edoardo\Desktop\Android_Studio\Camera2Project\Application\build\intermediates\pre-dexed\debug\classes-e724040f6666e6bfe9683e639eb2fd97ac3a9ef7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\pre-dexed\debug\classes-cf628af78f3eb612ddb18841da6c94bf94296c54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edoardo\Desktop\Android_Studio\Camera2Project\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="C:\Users\Edoardo\Desktop\Android_Studio\Camera2Project\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-eaa9a19eacfad5ad9cd5b61933a2935ea138ad44.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edoardo\Desktop\Android_Studio\Camera2Project\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="C:\Users\Edoardo\Desktop\Android_Studio\Camera2Project\Application\build\intermediates\pre-dexed\debug\classes-b6d7b9ab14ca7eb8a19acebbcda65f2a4bc0038e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edoardo\Desktop\Android_Studio\Camera2Project\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Edoardo\Desktop\Android_Studio\Camera2Project\Application\build\intermediates\pre-dexed\debug\classes-2ec4534509ff8cbb26ed0cf2e3feb2a81df855bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edoardo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-ab9af91e85ae9b138555e83bd45b21b2f84077f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edoardo\Desktop\Android_Studio\Camera2Project\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Edoardo\Desktop\Android_Studio\Camera2Project\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-50efcf4b56b3c73a1ddba9077b38a4566a92df10.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\pre-dexed\debug\classes-79950c259f7a6196bb74d3aefedb71604c43cc28.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\pre-dexed\debug\classes-6145430d938963e129de73529b4ce9012d778348.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edoardo\Desktop\Android_Studio\Camera2Project\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\Edoardo\Desktop\Android_Studio\Camera2Project\Application\build\intermediates\pre-dexed\debug\classes-0dd6464e801369aac5f4a0ec8699891ff101f5a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-250a5eba7d965029f7768f87a2fb5e0f4e462fce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\pre-dexed\debug\classes-7e4509493993c6529b3cd85cfc2ac85da85f1ee5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="C:\Users\Edoardo\Downloads\android-Camera2Basic-master\android-Camera2Basic-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-d9e4674eed99d72fbad277b8dc5793a1c4855a1d.jar" />
+    </item>
+
+</items>
